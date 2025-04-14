@@ -2,30 +2,177 @@
   "date": "2025.04",
   "entries": [
     {
-      "quadrant": 0,
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Terraform",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "Selenium",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 3,
+      "label": "Argo CD",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
       "ring": 0,
-      "label": "Golang",
+      "label": "Prometheus",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 3,
+      "label": "ELK",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "Istio",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Envoy",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "GitLab CI",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Grafana (vic, goc)",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "nginx",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "CFEngine",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Ansible",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "TeamCity",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "Kubernetes",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "One-cloud",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Docker",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "YTSaurus",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 0,
       "ring": 0,
-      "label": "Python 3+",
+      "label": "Java",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 1,
+      "label": "Go",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 0,
       "ring": 0,
-      "label": "Django",
+      "label": "Python 3",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "Kotlin",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 0,
       "ring": 0,
-      "label": "C",
+      "label": "TypeScript",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "JavaScript",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Bash / Shell scripting",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Spring Boot (Java)",
       "active": true,
       "moved": 0
     },
@@ -39,127 +186,44 @@
     {
       "quadrant": 0,
       "ring": 3,
-      "label": "JavaScript",
+      "label": "Svelte",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 0,
+      "ring": 1,
+      "label": "Redux",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
       "ring": 0,
-      "label": "golang",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 2,
-      "label": "webstorm",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "swagger",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "playwright",
+      "label": "Gravity UI",
       "active": true,
       "moved": 0,
-      "link": "https://playwright.dev/python/"
+      "link": "https://gravity-ui.com/"
     },
     {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "selenium",
+      "quadrant": 0,
+      "ring": 1,
+      "label": "Vite",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "link": "https://vite.dev/"
     },
     {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "DBeaver",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "cypress",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "pgadmin",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "docker",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "gdb",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "K8s",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "graphana",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 3,
-      "label": "graphite",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "prometheus",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "victory metrics",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "gitlab",
+      "quadrant": 0,
+      "ring": 1,
+      "label": "Next.js",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 3,
       "ring": 0,
-      "label": "Kafka",
+      "label": "PostgreSQL",
       "active": true,
       "moved": 0
     },
@@ -180,127 +244,63 @@
     {
       "quadrant": 3,
       "ring": 0,
-      "label": "Pg",
+      "label": "MongoDB",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 3,
-      "ring": 3,
+      "ring": 0,
+      "label": "YDB",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Zookeeper",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Kafka",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Elasticsearch",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Tarantool",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
       "label": "MySQL",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 3,
+      "ring": 0,
+      "label": "Cassandra",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
       "ring": 3,
-      "label": "sqlight",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "ansible",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 3,
-      "label": "drone",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "gitlab ci",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 3,
-      "label": "kibana",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "victory logs",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "nginx",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "haproxy",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "bird",
-      "active": true,
-      "moved": 0,
-      "link": "https://bird.network.cz/"
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "frr",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "eBPF",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 3,
-      "label": "zabbix",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "Spine-Leaf",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 3,
-      "label": "Legacy network",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "IPv6",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 3,
-      "label": "IPv4",
+      "label": "RabbitMQ",
       "active": true,
       "moved": 0
     }
