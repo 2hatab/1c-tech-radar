@@ -160,7 +160,7 @@
       "ring": 3,
       "label": "Ceph S3",
       "active": true,
-      "moved": 0
+      "moved": -1
     },
     {
       "quadrant": 1,
@@ -308,7 +308,7 @@
       "ring": 3,
       "label": "Kubernetes",
       "active": true,
-      "moved": 0
+      "moved": -1
     },
     {
       "quadrant": 2,
