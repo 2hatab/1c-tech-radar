@@ -129,7 +129,7 @@
     },
     {
       "quadrant": 0,
-      "ring": 1,
+      "ring": 0,
       "label": "Go",
       "active": true,
       "moved": 0
