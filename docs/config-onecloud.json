@@ -198,6 +198,14 @@
       "moved": 0
     },
     {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Diplodoc",
+      "active": true,
+      "moved": 0,
+      "link": "https://diplodoc.com/"
+    },
+    {
       "quadrant": 0,
       "ring": 0,
       "label": "Gravity UI",
